@@ -9,7 +9,6 @@ Small C++ exercises on sorting and hashing, written as data-structures and algor
 | `sorting_algos.cpp` | Shell sort (gap halving) and quicksort (Lomuto partition, last element as pivot). Functions only, no `main`. |
 | `hashTable_implementation.cpp` | A hash table of integers using separate chaining (`std::vector` of `std::list`, `key % bucketSize`), with insert, search and display, plus a demo `main`. |
 | `hashing_unordered_map.cpp` | A minimal `std::unordered_map<int, std::string>` example that inserts and prints key/value pairs. |
-| `hash` | A compiled Linux binary committed alongside the sources. |
 
 ## Built with
 
